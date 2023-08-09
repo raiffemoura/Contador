@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(70, 142, 236);
+    font: normal 15pt Arial;
+    background-image: url(./esbocar-icones-de-negocios_1284-44663.avif);
+    font-weight: bold;
+
+}
+
+header {
+    color: white;
+    text-align: center;
+
+}
+
+section {
+    background-color: rgba(139, 184, 184, 0.8);
+
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.482);
+
+
+}
+
+footer {
+
+    color: black;
+    text-align: center;
+    font-style: italic;
+
+}
+
+.fot {
+    background-color: rgba(139, 184, 184, 0.8);
+    border-radius: 10px;
+    padding: 10px;
+    width: 250px;
+    margin: auto;
+    margin-top: 15px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.482);
+
+}
